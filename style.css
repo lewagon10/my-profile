@@ -1,8 +1,11 @@
 body {
 	  background-color: #BFC0C0;
 	  color: black ;
+<<<<<<< HEAD
     
     font-size:  20px;
+    font-size:  45px;
+>>>>>>> c4f8604780a3488fca665eb43bfddb91e0fd3b3d
 }
 
 h1 {
@@ -37,7 +40,11 @@ a{
 
 /* Custom design with class (99% of your design) */
 .container {
+<<<<<<< HEAD
   width: 1000px;
+=======
+  width: 700px;
+>>>>>>> c4f8604780a3488fca665eb43bfddb91e0fd3b3d
   margin: 40px auto;
 }
 
@@ -70,7 +77,11 @@ a{
   text-align: center;
 }
 .img-circle {
+<<<<<<< HEAD
   border-radius: 40%;
+=======
+  border-radius: 50%;
+>>>>>>> c4f8604780a3488fca665eb43bfddb91e0fd3b3d
 }
 .btn-blue {
   background-color: #6B72E1;
