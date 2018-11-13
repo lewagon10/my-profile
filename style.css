@@ -69,7 +69,6 @@ a{
   }
 }
 
-
 .card-white {
   background-color: white;
   padding: 40px;
@@ -80,13 +79,13 @@ a{
 }
 .img-circle {
 
-  border-radius: 40%;
+  border-radius: 50%;
 
   border-radius: 50%;
 
 }
 .btn-blue {
-  background-color: #6B72E1;
+  background-color: black
   color: white;
   padding: 15px 20px;
   border-radius: 4px;
